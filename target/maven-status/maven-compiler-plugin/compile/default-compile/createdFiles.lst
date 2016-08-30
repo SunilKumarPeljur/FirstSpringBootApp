@@ -1,0 +1,7 @@
+com\training\repository\ManufacturerRepository.class
+com\training\controllers\DateAPI.class
+com\training\FirstSpringBootAppApplication.class
+com\training\controllers\ManufacturerAPI.class
+com\training\repository\Manufacturer.class
+com\training\repository\ClientRepository.class
+com\training\repository\Client.class
